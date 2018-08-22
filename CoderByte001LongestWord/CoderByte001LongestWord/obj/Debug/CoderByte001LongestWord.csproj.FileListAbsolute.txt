@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte001LongestWord\CoderByte001LongestWord\bin\Debug\CoderByte001LongestWord.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte001LongestWord\CoderByte001LongestWord\bin\Debug\CoderByte001LongestWord.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte001LongestWord\CoderByte001LongestWord\bin\Debug\CoderByte001LongestWord.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte001LongestWord\CoderByte001LongestWord\obj\Debug\CoderByte001LongestWord.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte001LongestWord\CoderByte001LongestWord\obj\Debug\CoderByte001LongestWord.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte001LongestWord\CoderByte001LongestWord\obj\Debug\CoderByte001LongestWord.pdb
