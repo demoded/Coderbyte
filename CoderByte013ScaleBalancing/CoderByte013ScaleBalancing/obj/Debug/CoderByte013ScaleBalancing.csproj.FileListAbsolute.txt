@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte013ScaleBalancing\CoderByte013ScaleBalancing\bin\Debug\CoderByte013ScaleBalancing.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte013ScaleBalancing\CoderByte013ScaleBalancing\bin\Debug\CoderByte013ScaleBalancing.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte013ScaleBalancing\CoderByte013ScaleBalancing\bin\Debug\CoderByte013ScaleBalancing.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte013ScaleBalancing\CoderByte013ScaleBalancing\obj\Debug\CoderByte013ScaleBalancing.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte013ScaleBalancing\CoderByte013ScaleBalancing\obj\Debug\CoderByte013ScaleBalancing.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte013ScaleBalancing\CoderByte013ScaleBalancing\obj\Debug\CoderByte013ScaleBalancing.pdb

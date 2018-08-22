@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte009ChessboardTraveling\CoderByte009ChessboardTraveling\bin\Debug\CoderByte009ChessboardTraveling.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte009ChessboardTraveling\CoderByte009ChessboardTraveling\bin\Debug\CoderByte009ChessboardTraveling.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte009ChessboardTraveling\CoderByte009ChessboardTraveling\bin\Debug\CoderByte009ChessboardTraveling.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte009ChessboardTraveling\CoderByte009ChessboardTraveling\obj\Debug\CoderByte009ChessboardTraveling.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte009ChessboardTraveling\CoderByte009ChessboardTraveling\obj\Debug\CoderByte009ChessboardTraveling.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte009ChessboardTraveling\CoderByte009ChessboardTraveling\obj\Debug\CoderByte009ChessboardTraveling.pdb

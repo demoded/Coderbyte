@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte011PentagonalNumber\CoderByte011PentagonalNumber\bin\Debug\CoderByte011PentagonalNumber.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte011PentagonalNumber\CoderByte011PentagonalNumber\bin\Debug\CoderByte011PentagonalNumber.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte011PentagonalNumber\CoderByte011PentagonalNumber\bin\Debug\CoderByte011PentagonalNumber.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte011PentagonalNumber\CoderByte011PentagonalNumber\obj\Debug\CoderByte011PentagonalNumber.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte011PentagonalNumber\CoderByte011PentagonalNumber\obj\Debug\CoderByte011PentagonalNumber.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte011PentagonalNumber\CoderByte011PentagonalNumber\obj\Debug\CoderByte011PentagonalNumber.pdb

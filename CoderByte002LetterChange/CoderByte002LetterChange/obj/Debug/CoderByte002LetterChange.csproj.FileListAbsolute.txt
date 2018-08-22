@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte002LetterChange\CoderByte002LetterChange\bin\Debug\CoderByte002LetterChange.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte002LetterChange\CoderByte002LetterChange\bin\Debug\CoderByte002LetterChange.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte002LetterChange\CoderByte002LetterChange\bin\Debug\CoderByte002LetterChange.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte002LetterChange\CoderByte002LetterChange\obj\Debug\CoderByte002LetterChange.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte002LetterChange\CoderByte002LetterChange\obj\Debug\CoderByte002LetterChange.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte002LetterChange\CoderByte002LetterChange\obj\Debug\CoderByte002LetterChange.pdb

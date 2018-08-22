@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte005SimpleSymbols\CoderByte005SimpleSymbols\bin\Debug\CoderByte005SimpleSymbols.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte005SimpleSymbols\CoderByte005SimpleSymbols\bin\Debug\CoderByte005SimpleSymbols.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte005SimpleSymbols\CoderByte005SimpleSymbols\bin\Debug\CoderByte005SimpleSymbols.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte005SimpleSymbols\CoderByte005SimpleSymbols\obj\Debug\CoderByte005SimpleSymbols.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte005SimpleSymbols\CoderByte005SimpleSymbols\obj\Debug\CoderByte005SimpleSymbols.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte005SimpleSymbols\CoderByte005SimpleSymbols\obj\Debug\CoderByte005SimpleSymbols.pdb

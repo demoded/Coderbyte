@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte016ClosestEnemy\CoderByte016ClosestEnemy\bin\Debug\CoderByte016ClosestEnemy.exe.config
+C:\Users\ashevchenko\Documents\Visual Studio 2015\Projects\CoderByte016ClosestEnemy\CoderByte016ClosestEnemy\bin\Debug\CoderByte016ClosestEnemy.exe
+C:\Users\ashevchenko\Documents\Visual Studio 2015\Projects\CoderByte016ClosestEnemy\CoderByte016ClosestEnemy\bin\Debug\CoderByte016ClosestEnemy.pdb
+C:\Users\ashevchenko\Documents\Visual Studio 2015\Projects\CoderByte016ClosestEnemy\CoderByte016ClosestEnemy\obj\Debug\CoderByte016ClosestEnemy.csprojResolveAssemblyReference.cache
+C:\Users\ashevchenko\Documents\Visual Studio 2015\Projects\CoderByte016ClosestEnemy\CoderByte016ClosestEnemy\obj\Debug\CoderByte016ClosestEnemy.exe
+C:\Users\ashevchenko\Documents\Visual Studio 2015\Projects\CoderByte016ClosestEnemy\CoderByte016ClosestEnemy\obj\Debug\CoderByte016ClosestEnemy.pdb

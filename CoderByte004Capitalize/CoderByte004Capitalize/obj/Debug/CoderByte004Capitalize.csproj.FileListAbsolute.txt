@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte004Capitalize\CoderByte004Capitalize\bin\Debug\CoderByte004Capitalize.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte004Capitalize\CoderByte004Capitalize\bin\Debug\CoderByte004Capitalize.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte004Capitalize\CoderByte004Capitalize\bin\Debug\CoderByte004Capitalize.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte004Capitalize\CoderByte004Capitalize\obj\Debug\CoderByte004Capitalize.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte004Capitalize\CoderByte004Capitalize\obj\Debug\CoderByte004Capitalize.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte004Capitalize\CoderByte004Capitalize\obj\Debug\CoderByte004Capitalize.pdb
