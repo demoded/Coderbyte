@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte000FirstFactorial\CoderByte000FirstFactorial\bin\Debug\CoderByte000FirstFactorial.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte000FirstFactorial\CoderByte000FirstFactorial\bin\Debug\CoderByte000FirstFactorial.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte000FirstFactorial\CoderByte000FirstFactorial\bin\Debug\CoderByte000FirstFactorial.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte000FirstFactorial\CoderByte000FirstFactorial\obj\Debug\CoderByte000FirstFactorial.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte000FirstFactorial\CoderByte000FirstFactorial\obj\Debug\CoderByte000FirstFactorial.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte000FirstFactorial\CoderByte000FirstFactorial\obj\Debug\CoderByte000FirstFactorial.pdb
