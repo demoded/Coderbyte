@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte008KaprekarsConstant\CoderByte008KaprekarsConstant\bin\Debug\CoderByte008KaprekarsConstant.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte008KaprekarsConstant\CoderByte008KaprekarsConstant\bin\Debug\CoderByte008KaprekarsConstant.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte008KaprekarsConstant\CoderByte008KaprekarsConstant\bin\Debug\CoderByte008KaprekarsConstant.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte008KaprekarsConstant\CoderByte008KaprekarsConstant\obj\Debug\CoderByte008KaprekarsConstant.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte008KaprekarsConstant\CoderByte008KaprekarsConstant\obj\Debug\CoderByte008KaprekarsConstant.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte008KaprekarsConstant\CoderByte008KaprekarsConstant\obj\Debug\CoderByte008KaprekarsConstant.pdb
