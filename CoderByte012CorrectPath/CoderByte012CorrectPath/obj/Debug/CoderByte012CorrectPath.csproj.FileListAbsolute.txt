@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte012CorrectPath\CoderByte012CorrectPath\bin\Debug\CoderByte012CorrectPath.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte012CorrectPath\CoderByte012CorrectPath\bin\Debug\CoderByte012CorrectPath.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte012CorrectPath\CoderByte012CorrectPath\bin\Debug\CoderByte012CorrectPath.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte012CorrectPath\CoderByte012CorrectPath\obj\Debug\CoderByte012CorrectPath.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte012CorrectPath\CoderByte012CorrectPath\obj\Debug\CoderByte012CorrectPath.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte012CorrectPath\CoderByte012CorrectPath\obj\Debug\CoderByte012CorrectPath.pdb

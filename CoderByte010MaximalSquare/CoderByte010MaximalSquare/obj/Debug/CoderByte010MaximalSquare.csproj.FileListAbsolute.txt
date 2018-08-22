@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte010MaximalSquare\CoderByte010MaximalSquare\bin\Debug\CoderByte010MaximalSquare.exe.config
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte010MaximalSquare\CoderByte010MaximalSquare\bin\Debug\CoderByte010MaximalSquare.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte010MaximalSquare\CoderByte010MaximalSquare\bin\Debug\CoderByte010MaximalSquare.pdb
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte010MaximalSquare\CoderByte010MaximalSquare\obj\Debug\CoderByte010MaximalSquare.csprojResolveAssemblyReference.cache
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte010MaximalSquare\CoderByte010MaximalSquare\obj\Debug\CoderByte010MaximalSquare.exe
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte010MaximalSquare\CoderByte010MaximalSquare\obj\Debug\CoderByte010MaximalSquare.pdb
