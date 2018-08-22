@@ -1,0 +1,6 @@
+c:\users\ashevchenko\documents\visual studio 2015\Projects\CoderByte015EightQueens\CoderByte015EightQueens\bin\Debug\CoderByte015EightQueens.exe.config
+C:\Users\ashevchenko\documents\visual studio 2015\Projects\CoderByte015EightQueens\CoderByte015EightQueens\bin\Debug\CoderByte015EightQueens.exe
+C:\Users\ashevchenko\documents\visual studio 2015\Projects\CoderByte015EightQueens\CoderByte015EightQueens\bin\Debug\CoderByte015EightQueens.pdb
+C:\Users\ashevchenko\documents\visual studio 2015\Projects\CoderByte015EightQueens\CoderByte015EightQueens\obj\Debug\CoderByte015EightQueens.csprojResolveAssemblyReference.cache
+C:\Users\ashevchenko\documents\visual studio 2015\Projects\CoderByte015EightQueens\CoderByte015EightQueens\obj\Debug\CoderByte015EightQueens.exe
+C:\Users\ashevchenko\documents\visual studio 2015\Projects\CoderByte015EightQueens\CoderByte015EightQueens\obj\Debug\CoderByte015EightQueens.pdb
