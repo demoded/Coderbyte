@@ -18,7 +18,7 @@ Sample Test Cases
 Input:"aa6?9"
 Output:"false"
 
-Input:"acc?7??sss?3rr1??????5"
+Input:"acc?7??sss?3rr1??????5" <--- THAT IS POSSIBLY WRONG!!! IT MUST BE FALSE ACCORDING TO TASK
 Output:"true"
 */
 
@@ -30,33 +30,43 @@ namespace Coderbyte017QuestionMarks
         {
             string filtered = Regex.Replace(str, "([^0-9?])", "");
             bool ret = false;
-            int left, right, startPos = 0;
+            int left=0, right = 0;
 
-            startPos = filtered.IndexOf("???");
-            while (!ret && startPos > 0 && startPos <= filtered.Length - 3)
+            for (int i = 1; i < filtered.Length; i++)
             {
-                if (Char.IsNumber(filtered[startPos - 1]))
+                if (i < filtered.Length - 3)
                 {
-                    left = Convert.ToInt16(filtered[startPos - 1]) - '0';
-                }
-                else
-                {
-                    left = 0;
-                }
+                    //check all possible combinations for Number???Number
+                    if (Char.IsNumber(filtered[i - 1]) &&
+                       filtered[i] == '?' && filtered[i + 1] == '?' && filtered[i + 2] == '?' &&
+                       Char.IsNumber(filtered[i + 3]))
+                    {
+                        left = Convert.ToInt16(filtered[i - 1]) - '0';
+                        right = Convert.ToInt16(filtered[i + 3]) - '0';
 
-                if (Char.IsNumber(filtered[startPos + 3]))
-                {
-                    right = Convert.ToInt16(filtered[startPos + 3]) - '0';
-                }
-                else
-                {
-                    right = 0;
-                }
+                        if (left + right == 10)
+                        {
+                            ret = true;
+                        }
 
-                if (left + right == 10)
-                    ret = true;
+                        i += 3; //add 3 here, another 1 will be added in for loop
+                    }
+                    else
+                    {
+                        //if current and previous characters not numbers, there is no reason to continue, return false
+                        if (!(Char.IsNumber(filtered[i - 1]) && Char.IsNumber(filtered[i])))
+                        {
+                            ret = false;
+                            break;
+                        }
+                    }
+                }
                 else
-                    startPos = filtered.IndexOf("???", startPos + 1);
+                {
+                    //check the last 4 symbols if they shouldn't contain questionmarks
+                    if (ret && filtered[i] == '?')
+                        ret = false;
+                }
             }
 
             return ret.ToString().ToLower();
